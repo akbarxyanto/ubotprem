@@ -16,7 +16,6 @@ requests
 unidecode
 filetype
 attrify
-uvloop
 pySmartDL
 html2text
 removebg
