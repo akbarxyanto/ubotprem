@@ -5,6 +5,7 @@ tornado==6.4.1
 py-tgcalls==2.0.2
 rich==13.7.1
 pytz==2024.1
+uvloop==0.17 ; platfrom_system != "Android"
 psutil
 motor
 dnspython
